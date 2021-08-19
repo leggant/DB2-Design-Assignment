@@ -1,6 +1,7 @@
 # IN605 Data Model Assignment
 
-**Anthony Legg**
+**Anthony Legg** #03007276
+**Hayden McDowall** #100051359
 
 ## Learning Outcomes
 
